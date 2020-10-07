@@ -4,7 +4,7 @@ import router from './router';
 import 'at-ui-style';
 import AtUI from 'at-ui';
 
-/* WebHook */
+/* ARO Demo Session */
 Vue.config.productionTip = false;
 Vue.use(AtUI);
 
